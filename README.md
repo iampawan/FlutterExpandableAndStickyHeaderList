@@ -1,6 +1,6 @@
 # Flutter Expandable And Sticky Header List
 
-<img src="stick.gif" height="300em" /
+<img src="stick.gif" height="300em"/>
 
 A new Flutter application.
 
